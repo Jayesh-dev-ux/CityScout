@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Pali",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-15T15:58:49.351Z",
+      "notes": "My hometown",
+      "position": {
+        "lat": "25.77929545300957",
+        "lng": "73.19091670587667"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Ahmedabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-15T15:59:35.831Z",
+      "notes": "My first home ",
+      "position": {
+        "lat": "23.013838601923553",
+        "lng": "72.59765595477077"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Sirohi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-15T16:02:28.402Z",
+      "notes": "close to my heart\n",
+      "position": {
+        "lat": "24.88576995975351",
+        "lng": "72.66357290931057"
+      },
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+.city {
+  padding: 2rem 3rem;
+  max-height: 70%;
+  background-color: var(--color-dark--2);
+  border-radius: 7px;
+
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  overflow: auto;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.btn {
+  width: 200px;
+  height: 45px;
+  border-radius: 6px;
+  font-size: 20px;
+  padding: 6px;
+
+  background-color: var(--color-brand--2);
+
+  color: var(--color-light--2);
+}
+.element {
+  font-size: 16px;
+}
+.element li ul li {
+  list-style: none;
+}
+
+.city h6 {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  font-weight: 900;
+  color: var(--color-light--1);
+}
+
+.city h3 {
+  font-size: 3.5rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.city h3 span {
+  font-size: 3.2rem;
+  line-height: 1;
+}
+
+.city p {
+  font-size: 1.6rem;
+}
+
+.city a:link,
+.city a:visited {
+  font-size: 1.6rem;
+  color: var(--color-brand--1);
+}

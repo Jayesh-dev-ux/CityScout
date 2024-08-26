@@ -1,0 +1,1 @@
+import{a as o,L as s}from"./index-4959922e.js";const t="_logo_17sa9_1",l={logo:t};function g(){return o(s,{to:"/",children:o("img",{src:"/logo3.png",alt:"CityScout",className:l.logo})})}export{g as L};
